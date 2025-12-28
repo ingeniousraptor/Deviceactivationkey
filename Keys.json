@@ -22,11 +22,5 @@
         "key": "7679",
         "expirydate": "30-11-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "01a2409fcf671505",
-        "key": "77110068",
-        "expirydate": "22-12-2025",
-        "Allowoffline": false
     }
 ]
